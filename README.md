@@ -1,6 +1,6 @@
 - Hi, I’m Fabian
 - I’m interested in web developmen
-- I’m currently learning HTML, CSS, JS
+- I’m currently learning HTML, CSS, JS, Python, Django and Mongo
 - I’m looking to collaborate on anything related
 
 <!---
